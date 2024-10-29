@@ -15,7 +15,6 @@
     {% if site.atom_feed.hide != true %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endif %}
-    <li><a href="https://hits.sh/sooyounglim.github.io/"><img alt="Hits" src="https://hits.sh/sooyounglim.github.io.svg?view=today-total&label=Visitors&color=ededfd&labelColor=ededfd"/></a></li>
   </ul>
 </div>
 {% endif %}
