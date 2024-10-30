@@ -33,8 +33,8 @@ S. Lim and D. Park <br />
 2. **Improving Hadoop MapReduce performance on heterogeneous single board computer clusters** <br />
 S. Lim and D. Park <br />
 *Future Generation Computer Systems*, 2024 (JCR: top 9.4%) <br />
-[Paper]('/files/papers/2024-FGCS.pdf') / [Link]('https://doi.org/10.1016/j.future.2024.06.025')
+[Paper](/files/papers/2024-FGCS.pdf) / [Link](https://doi.org/10.1016/j.future.2024.06.025)
 3. **Efficient Stack Distance Approximation Based on Workload Characteristics** <br />
 S. Lim and D. Park <br />
 *IEEE Access*, 2022 (JCR: top 34.7%) <br />
-[Paper]('/files/papers/2022-IEEE-Access.pdf') / [Link]('https://doi.org/10.1109/ACCESS.2022.3180327')
+[Paper](/files/papers/2022-IEEE-Access.pdf) / [Link](https://doi.org/10.1109/ACCESS.2022.3180327)
