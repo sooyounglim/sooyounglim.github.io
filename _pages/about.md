@@ -11,7 +11,7 @@ About Me
 I received the master’s degree in computer science from Sookmyung Women’s University, Seoul, Republic of Korea, in 2024, advised by [Prof. Dongchul Park](http://bigdata.cau.ac.kr/).
 
 I am broadly interested in **computer systems**; <br />
-optimizing resource management to enhance the performance of heterogeneous computing environments.
+Optimizing resource management to enhance the performance of heterogeneous computing environments.
 
 I am an applicant for CS Ph.D. programs in the USA for 2025 admission. <br />
 Please feel free to reach out to me for further information!
