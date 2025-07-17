@@ -12,4 +12,4 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/slim_CV.pdf).
 
-*Last Update: 2025-01-21*
+*Last Update: 2025-07-18*
