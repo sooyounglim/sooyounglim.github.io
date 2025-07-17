@@ -10,11 +10,10 @@ About Me
 =====
 I received the master’s degree in computer science from Sookmyung Women’s University, Seoul, Republic of Korea, in 2024, advised by [Prof. Dongchul Park](http://bigdata.cau.ac.kr/).
 
-I am broadly interested in **computer systems**; <br />
-Optimizing resource management to enhance the performance of heterogeneous computing environments.
+Currently, I am a researcher at the Korea Electronics Technology Institute (KETI), where I work on optimizing I/O performance in distributed file systems and accelerating large-scale data processing for AI frameworks.
 
-I am an applicant for CS Ph.D. programs in the USA for 2025 admission. <br />
-Please feel free to reach out to me for further information!
+I am broadly interested in **computer systems**; <br />
+Optimizing I/O efficiency and resource management across heterogeneous computing environments.
 
 Education
 =====
@@ -29,12 +28,12 @@ Publications
 =====
 1. **Automatic Reconfiguring the Node-Level Parallelism of YARN in Heterogeneous Low-Power Clusters** <br />
 S. Lim and D. Park <br />
-*Journal of Big Data*, 2024 (JCR: top 5.2%) (*under review*) <br />
+*Journal of Big Data*, 2024 (*under review*) <br />
 2. **Improving Hadoop MapReduce performance on heterogeneous single board computer clusters** <br />
 S. Lim and D. Park <br />
-*Future Generation Computer Systems*, 2024 (JCR: top 9.4%) <br />
+*Future Generation Computer Systems*, 2024 <br />
 [Paper](/files/papers/2024-FGCS.pdf) / [Link](https://doi.org/10.1016/j.future.2024.06.025)
 3. **Efficient Stack Distance Approximation Based on Workload Characteristics** <br />
 S. Lim and D. Park <br />
-*IEEE Access*, 2022 (JCR: top 34.7%) <br />
+*IEEE Access*, 2022 <br />
 [Paper](/files/papers/2022-IEEE-Access.pdf) / [Link](https://doi.org/10.1109/ACCESS.2022.3180327)
