@@ -8,9 +8,9 @@ redirect_from:
 ---
 About Me
 =====
-I received the master’s degree in computer science from Sookmyung Women’s University, Seoul, Republic of Korea, in 2024, advised by [Prof. Dongchul Park](http://bigdata.cau.ac.kr/).
+I am a researcher at the Korea Electronics Technology Institute (KETI), where I work on optimizing I/O performance in storage systems and accelerating large-scale data processing for AI frameworks.
 
-Currently, I am a researcher at the Korea Electronics Technology Institute (KETI), where I work on optimizing I/O performance in distributed file systems and accelerating large-scale data processing for AI frameworks.
+I received the master’s degree in computer science from Sookmyung Women’s University, advised by [Prof. Dongchul Park](http://bigdata.cau.ac.kr/).
 
 I am broadly interested in **computer systems**; <br />
 Optimizing I/O efficiency and resource management across heterogeneous computing environments.
@@ -26,14 +26,18 @@ Education
 
 Publications
 =====
-1. **Automatic Reconfiguring the Node-Level Parallelism of YARN in Heterogeneous Low-Power Clusters** <br />
+1. **Automatic Internal Parallelism Reconfiguration on Heterogeneous Low-Power Hadoop Clusters** <br />
 S. Lim and D. Park <br />
-*Journal of Big Data*, 2024 (*under review*) <br />
-2. **Improving Hadoop MapReduce performance on heterogeneous single board computer clusters** <br />
+*Future Generation Computer Systems*, 2025 (*under review*) <br />
+[Preprint](/files/papers/2025-FGCS.pdf) / [Link](http://dx.doi.org/10.2139/ssrn.5477200)
+2. **Toward Heterogeneity-Aware Striping in Lustre** <br />
+S. Lim, J. Son, and D. Kim
+**ICTC**, 2025 (*accepted*) <br />
+3. **Improving Hadoop MapReduce performance on heterogeneous single board computer clusters** <br />
 S. Lim and D. Park <br />
 *Future Generation Computer Systems*, 2024 <br />
 [Paper](/files/papers/2024-FGCS.pdf) / [Link](https://doi.org/10.1016/j.future.2024.06.025)
-3. **Efficient Stack Distance Approximation Based on Workload Characteristics** <br />
+4. **Efficient Stack Distance Approximation Based on Workload Characteristics** <br />
 S. Lim and D. Park <br />
 *IEEE Access*, 2022 <br />
 [Paper](/files/papers/2022-IEEE-Access.pdf) / [Link](https://doi.org/10.1109/ACCESS.2022.3180327)
