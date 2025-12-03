@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sooyoung Lim"
   pronouns         : # example: "she/her"
-  bio              : "Prospective Ph.D. Student in Computer Science"
+  bio              : "Researcher @ KETI"
   location         : Seoul, Korea
-  employer         :
+  employer         : Korea Electronics Technology Institute (KETI)
   uri              : # URL
-  email            : "slim@sookmyung.ac.kr"
+  email            : "slim@keti.re.kr"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : sooyoung-lim-9b85b7264
+  linkedin         : sooyoung-lim
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
