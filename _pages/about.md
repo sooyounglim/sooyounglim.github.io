@@ -44,7 +44,7 @@ Conference Presentations
 [C2] **Accelerating I/O Performance for AI Frameworks on DAOS** <br />
 S. Lim, T. Yoo, J. Son, and D. Kim <br />
 **ICONI**, 2025 <br />
-[Paper](/files/papers/2025-ICONI.pdf) / [Poster](/files/posters/2025-ICONI.pdf)
+[Paper](/files/papers/2025-ICONI.pdf) / [Poster](/files/posters/2025-ICONI.pdf) <br />
 [C1] **Toward Heterogeneity-Aware Striping in Lustre** <br />
 S. Lim, J. Son, and D. Kim <br />
 **ICTC**, 2025 <br />
