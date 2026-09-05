@@ -8,12 +8,14 @@ redirect_from:
 ---
 About Me
 =====
-I am a researcher at the Korea Electronics Technology Institute (KETI), where I work on improving large-scale data processing in distributed storage systems.
 
-I received the master’s degree in computer science from Sookmyung Women’s University, advised by [Prof. Dongchul Park](http://bigdata.cau.ac.kr/).
+I am a first-year CS Ph.D student at Northeastern University, advised by [Prof. Ji-Yong Shin](https://www.jiyongshin.info/) in the [Systems Research Group](https://srg.khoury.northeastern.edu/).
 
-I am broadly interested in **computer systems**; <br />
-Optimizing I/O efficiency and resource management across next-generation computing environments.
+Previously, I was a researcher at the Korea Electronics Technology Institute (KETI), where I work on large-scale data processing in distributed storage systems.
+I received my master’s degree in computer science from Sookmyung Women’s University, advised by [Prof. Dongchul Park](http://bigdata.cau.ac.kr/).
+
+I am broadly interested in **reliable computer systems**; <br />
+Applying formal methods to reason about the correctness of distributed systems.
 
 Education
 =====
