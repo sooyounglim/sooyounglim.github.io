@@ -21,14 +21,14 @@ repository               : "sooyounglim/sooyounglim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Sooyoung Lim"
   pronouns         : # example: "she/her"
-  bio              : "Researcher @ KETI"
-  location         : Seoul, Korea
-  employer         : KETI
+  bio              : "CS PhD Student @ Northeastern"
+  location         : Boston, MA, United States
+  employer         : Northeastern University
   uri              : # URL
-  email            : "slim@keti.re.kr"
+  email            : "lim.sooy@northeastern.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

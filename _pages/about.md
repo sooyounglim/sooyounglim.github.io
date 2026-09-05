@@ -17,6 +17,9 @@ Optimizing I/O efficiency and resource management across next-generation computi
 
 Education
 =====
+* **Northeastern University**, Boston, MA, United States
+  * Ph.D. in Computer Science
+    * Sep. 2026 - Present
 * **Sookmyung Women's University**, Seoul, Republic of Korea
   * Master of Engineering in Computer Science
     * Thesis: Redesigning Hadoop YARN Architecture for Heterogeneous Single Board Computer Clusters
@@ -26,9 +29,9 @@ Education
 
 Journal Publications
 =====
-[J3] **Automatic Internal Parallelism Reconfiguration on Heterogeneous Low-Power Hadoop Clusters** <br />
+[J3] **AIR-YARN: Automatic Internal Parallelism Reconfiguration on Heterogeneous Low-Power Hadoop Clusters** <br />
 S. Lim and D. Park <br />
-*Future Generation Computer Systems*, 2025 (*under review*) <br />
+*Future Generation Computer Systems*, 2026 (*under revision*) <br />
 [Preprint](/files/papers/2025-FGCS.pdf) / [DOI](http://dx.doi.org/10.2139/ssrn.5477200) <br />
 [J2] **Improving Hadoop MapReduce performance on heterogeneous single board computer clusters** <br />
 S. Lim and D. Park <br />
